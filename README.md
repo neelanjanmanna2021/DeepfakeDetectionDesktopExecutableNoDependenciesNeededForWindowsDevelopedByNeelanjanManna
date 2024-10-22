@@ -1,4 +1,4 @@
-there are some dll specific moudules of each platform
+There are some dll specific moudules of each platform
 
 so download neel.py and .pyd file
 
