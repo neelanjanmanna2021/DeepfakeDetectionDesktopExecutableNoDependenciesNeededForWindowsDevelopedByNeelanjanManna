@@ -20,3 +20,6 @@ Developed by Neelanjan Manna
 
 
 Ami Gorbito Ami Bangali
+
+
+You can record your own speech video through the front camera and you will be suprised with the results.
