@@ -10,6 +10,7 @@ then pip install pyinstaller
 
 finally pyinstaller --onefile neel.py
 
+Script mode is more efficient than exe version
 
 enjoy !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
